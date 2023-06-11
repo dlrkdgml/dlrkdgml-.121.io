@@ -1,11 +1,12 @@
-<! DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<head>world miltary Rangking
-<title>world Miltary Rangking</title>
+<head>
+<title>World Military Ranking 1~10</title>
 </head>
 <body>
 
-<h1> Ranking <h1>
-<p>1.usa 2.rus 3.chn 4.ind 5.ukd 6.sko 7.pak 8.jpn 9.fra 10.ita
+<h1>World Military Ranking 1~10</h1>
+<p>1.United States 2.Russia 3.China 4.India 5.United Kingdom 6.South Korea 7.Pakistan 8.Japan 9.France 10.Italy</p>
+
 </body>
-<html>
+</html>
